@@ -1,0 +1,37 @@
+{
+    "id": "dnd5e-prone-height",
+    "title": "D&D 5e Prone Height",
+    "description": "",
+    "version": "This is auto replaced",
+    "library": "false",
+    "compatibility": {
+        "minimum": 11,
+        "verified": 11.308
+    },
+    "authors": [
+        {
+            "name": "Larkinabout",
+            "url": "https://github.com/Larkinabout"
+        }
+    ],
+    "esmodules": ["dist/dnd5e-prone-height.js"],
+    "styles": [
+    ],
+    "languages": [
+    ],
+    "relationships": {
+        "required": {
+            "id": "wall-height",
+            "manifest": "https://github.com/theripper93/wall-height/releases/latest/download/module.json",
+            "type": "module",
+            "compatibility": {
+                "minimum": "5.0.3",
+                "verified": "5.0.3"
+            }
+        }
+    },
+    "url": "This is auto replaced",
+    "manifest": "This is auto replaced",
+    "download": "This is auto replaced",
+    "readme": "https://github.com/Larkinabout/fvtt-dnd5e-prone-height#readme"
+}
